@@ -1,10 +1,9 @@
 ---
 name: single-point-accountability-design
-description: Design accountability structures where one person owns every aspect of
-  an outcome - every trade-off, every decision, every result.
+description: Design accountability structures where one person owns every aspect of an outcome - every trade-off, every decision, every result.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - escalation
